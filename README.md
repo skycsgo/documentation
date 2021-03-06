@@ -29,7 +29,7 @@ Download the snippet from:
 If you have any issue with or suggestions for the api, feel free to create an issue on our GitHub Repository.
 
 {% hint style="info" %}
-[Click **here** to navigate to our GitHub Repository](https://github.com/skycsgo/docs)
+[Click **here** to navigate to our GitHub Repository](https://github.com/skycsgo/documentation)
 {% endhint %}
 
 
