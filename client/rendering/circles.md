@@ -12,7 +12,7 @@ description: Render circles
 | `y` | `int` |
 | `radius` | `int` |
 | `color` | `Color` |
-| `flags` | `RenderFlag` |
+| `flags` | `RenderFlag(DEFAULT)` |
 
 ### Return type
 

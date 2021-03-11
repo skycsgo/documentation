@@ -13,7 +13,8 @@ description: Render boxes
 | `w` | `int` |
 | `h` | `int` |
 | `color` | `Color` |
-| `flags` | `RenderFlag` |
+| `rounding` | `float(0)` |
+| `flags` | `RenderFlag(DEFAULT)` |
 
 ### Return type
 

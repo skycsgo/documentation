@@ -13,7 +13,8 @@ description: Render strings
 | `color` | `Color` |
 | `font` | `Font` |
 | `text` | `string` |
-| `flags` | `TextFlag` |
+| `flags` | `TextFlag(DEFAULT)` |
+| `size` | `float(NULL)` |
 
 ### Return type
 

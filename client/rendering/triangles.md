@@ -15,7 +15,7 @@ description: Render a triangle
 | `x3` | `int` |
 | `y3` | `int` |
 | `color` | `Color` |
-| `flags` | `RenderFlag` |
+| `flags` | `RenderFlag(DEFAULT)` |
 
 ### Return type
 
