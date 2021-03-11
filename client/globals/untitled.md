@@ -18,6 +18,7 @@ description: This is a list of all global variables.
 | `GetMaxClients` | `int` | Current maxplayers setting |
 | `GetTickcount` | `int` | Simulation ticks |
 | `GetIntervalPerTick` | `float` | Simulation tick interval |
+| `GetScreenSize` | `Vector2D` | `Gets global screen size` |
 
 ## Usage
 
